@@ -62,7 +62,7 @@
             <version>2.22.2</version>
             <configuration>
                 <includes>
-                    <include>**/TestRunner.java</include>
+                    <include>com.zone24x7.runner.TestRunner.java</include>
                 </includes>
             </configuration>
         </plugin>
